@@ -96,7 +96,7 @@ body{
   font-size: 30px;
   color: white;
   position: absolute;
-  left: 160px;
+  left: 30px;
 }
 
 #reason_i{
@@ -104,7 +104,7 @@ body{
   position: absolute;
   height: 300px;
   border-radius: 5px;
-  margin-left: 145px;
+  margin-left: 13px;
 }
 
 #reason_fs{
@@ -113,14 +113,14 @@ body{
   font-family: 'Yeongdo-Rg';
   font-size: 30px;
   position: absolute;
-  left: 467px;
+  left: 281px;
 }
 
 #reason_is{
   width: 240px;
   height: 300px;
   position: absolute;
-  left : 455px;
+  left : 264px;
   border-radius: 5px;
 }
 
@@ -130,14 +130,14 @@ body{
   font-family: 'Yeongdo-Rg';
   font-size: 30px;
   position: absolute;
-  left: 778px;
+  left: 531px;
 }
 
 #reason_it{
   width: 240px;
   height: 300px;
   position: absolute;
-  left : 763px;
+  left : 514px;
   border-radius: 5px;
 }
 
@@ -147,13 +147,13 @@ body{
   font-family: 'Yeongdo-Rg';
   font-size: 30px;
   position: absolute;
-  left: 1085px;
+  left: 778px;
 }
 
 #reason_if{
   width: 240px;
   height: 300px;
   position: absolute;
-  left : 1071px;
+  left : 763px;
   border-radius: 5px;
 }
